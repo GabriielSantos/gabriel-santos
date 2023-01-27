@@ -33,17 +33,17 @@ section#telefone {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 629px;
-    width: 311px;    
-    background: url('../imagens/frame-iphone.png') no-repeat;    
+    height: 565px;
+    width: 280px;    
+    background: url('../imagens/frame-iphone1.png') no-repeat;    
 }
 
 iframe#tela {
     position: relative;
-    top: 80px;
-    left: 22px;
-    width: 269px;
-    height: 471px;
+    top: 72px;
+    left: 20px;
+    width: 240px;
+    height: 423px;
 }
 
 section#logo > img {
