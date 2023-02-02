@@ -52,15 +52,16 @@ section#logo > img {
     margin-left: -20px;
     width: 150px;
     height: 150px;
+    cursor: pointer;
 }
 
-section#redes-sociais {
+section#redes {
     text-align: left;
     margin-left: 10px;
     margin-top: 10px;
 }
 
-section#redes-sociais > a > img {
+section#redes > a > img {
     width: 50px;
     height: 50px;
     margin: 5px;
@@ -69,7 +70,7 @@ section#redes-sociais > a > img {
     box-sizing: border-box;   
 }
 
-section#redes-sociais img:hover {
+section#redes img:hover {
     border: 2px solid rgba(255, 255, 255, 0.508);
     transform: translate(3px, -3px);
     box-shadow: -3px 3px 5px rgba(248, 246, 246, 0.105);
